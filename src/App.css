@@ -31,7 +31,7 @@ html, body {
     background-color: #111111;
     width: 0.2rem;
 }
-@media screen and (min-width: 350px) and (max-width: 1280px) {
+@media screen and (min-width: 375px) and (max-width: 1280px) {
     .App {
         padding: 0;
     }
@@ -40,3 +40,8 @@ html, body {
         display: none;
     }
 }
+
+/* Breakpoints */
+/* xlg - 1440px, lg-1280px */
+/* lg- 1028px, m-820px, s-768p */
+/* xlg - 540px, lg-428px, m-390px, s-375px */
